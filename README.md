@@ -12,3 +12,6 @@ In the previous assignment, we've showed you how to create your environment. Thi
 
 # Bouns Part
 In that part, you can get extra credits for your assignment. You will use [Utku Ozbulak’s PyTorch CNN Visualizations Library](https://github.com/utkuozbulak/pytorch-cnn-visualizations/) to visualize the important parts of the input image for a particular output class. In particular, just select a specific picture of an actor, and then using your trained network in Part 2.4, perform Gradient visualization with guided backpropagation to understand the prediction for that actor with respect to the input image. Comment on your results.
+![image](https://github.com/user-attachments/assets/3bcd3916-34ca-4226-a62b-e11fb24aec9a)
+![image](https://github.com/user-attachments/assets/7e72bb4a-eeb8-443f-b414-68fa773560df)
+![image](https://github.com/user-attachments/assets/1e109580-ae7d-4c1d-b83c-58ed98ee1804)
